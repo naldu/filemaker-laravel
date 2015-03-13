@@ -9,12 +9,6 @@
             "email": "me@rojvroemen.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/naldu/filemaker"
-        }
-    ],
     "require": {
         "rojtjo/filemaker": "dev-master"
     },
